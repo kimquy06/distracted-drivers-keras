@@ -4,4 +4,4 @@ description = "State Farm Distracted Driver Challenge"
 environment = "tensorflow"
 
 [datasets]
-"kimquy06/distracted-drivers-tf" = "0.0.1"
+"kimquy06/distracted-drivers-keras" = "0.0.2"
